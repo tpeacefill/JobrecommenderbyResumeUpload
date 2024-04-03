@@ -18,6 +18,6 @@ setup(
     author='Abbas Behrainwala',
     author_email='abbasbehrain95@gmail.com',
     packages=find_packages(),
-    install_requires=get_requirements('/Users/mac/Documents/Job-Recommendation-System/Job-Recommendation-System/requirements.txt')
+    install_requires=get_requirements('requirements.txt')
 
 )
